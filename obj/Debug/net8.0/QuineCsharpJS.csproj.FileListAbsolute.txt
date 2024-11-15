@@ -1,0 +1,14 @@
+/Users/a1234/Desktop/Studio Projects/Itransition/QuineCsharpJS/bin/Debug/net8.0/QuineCsharpJS
+/Users/a1234/Desktop/Studio Projects/Itransition/QuineCsharpJS/bin/Debug/net8.0/QuineCsharpJS.deps.json
+/Users/a1234/Desktop/Studio Projects/Itransition/QuineCsharpJS/bin/Debug/net8.0/QuineCsharpJS.runtimeconfig.json
+/Users/a1234/Desktop/Studio Projects/Itransition/QuineCsharpJS/bin/Debug/net8.0/QuineCsharpJS.dll
+/Users/a1234/Desktop/Studio Projects/Itransition/QuineCsharpJS/bin/Debug/net8.0/QuineCsharpJS.pdb
+/Users/a1234/Desktop/Studio Projects/Itransition/QuineCsharpJS/obj/Debug/net8.0/QuineCsharpJS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/Studio Projects/Itransition/QuineCsharpJS/obj/Debug/net8.0/QuineCsharpJS.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/Studio Projects/Itransition/QuineCsharpJS/obj/Debug/net8.0/QuineCsharpJS.AssemblyInfo.cs
+/Users/a1234/Desktop/Studio Projects/Itransition/QuineCsharpJS/obj/Debug/net8.0/QuineCsharpJS.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/Studio Projects/Itransition/QuineCsharpJS/obj/Debug/net8.0/QuineCsharpJS.dll
+/Users/a1234/Desktop/Studio Projects/Itransition/QuineCsharpJS/obj/Debug/net8.0/refint/QuineCsharpJS.dll
+/Users/a1234/Desktop/Studio Projects/Itransition/QuineCsharpJS/obj/Debug/net8.0/QuineCsharpJS.pdb
+/Users/a1234/Desktop/Studio Projects/Itransition/QuineCsharpJS/obj/Debug/net8.0/QuineCsharpJS.genruntimeconfig.cache
+/Users/a1234/Desktop/Studio Projects/Itransition/QuineCsharpJS/obj/Debug/net8.0/ref/QuineCsharpJS.dll
